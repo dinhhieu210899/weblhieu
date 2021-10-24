@@ -1,2 +1,2 @@
 
-<title>Documentation &nbsp;|&nbsp; Google Cloud</title>
+<h1>Documentation &nbsp;|&nbsp; Google Cloud</h1>
